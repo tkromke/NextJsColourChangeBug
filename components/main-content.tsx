@@ -26,9 +26,9 @@ const MainContent: NextPage = () => {
           textTransform: "none",
           color: "#fff",
           fontSize: "16",
-          background: "#f10000",
+          background: "#3000f1",
           borderRadius: "6px",
-          "&:hover": { background: "#f10000" },
+          "&:hover": { background: "#3000f1" },
           width: 122,
           height: 50,
         }}
